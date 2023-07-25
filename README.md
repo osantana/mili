@@ -1,3 +1,3 @@
 # mili.py
 
-Generate a PDF with 5mm x 5mm squares.
+Generate a A4 PDF page with 5mm x 5mm squares.
