@@ -1,0 +1,13 @@
+[tool.poetry]
+name = "mili"
+version = "0.1.0"
+description = ""
+authors = ["Osvaldo Santana Neto <osantana@osantana.me>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+reportlab = "*"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
